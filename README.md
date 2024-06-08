@@ -1,4 +1,4 @@
-# online_shop
+# Aral Shop
 
 A new Flutter project.
 
